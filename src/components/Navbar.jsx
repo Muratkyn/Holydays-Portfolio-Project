@@ -11,8 +11,8 @@ const Navbar = () => {
         } else {
             document.body.style.overflow = 'scroll'
         }
-        
     } 
+    
   return (
     <div className='absolute justify-between w-full flex p-6 items-center'>
         <h1 onClick={toggleNav} className='text-white font-bold md:text-2xl text-xl z-30 drop-shadow-lg m-4 cursor-pointer'>HOLYDAYS</h1>
