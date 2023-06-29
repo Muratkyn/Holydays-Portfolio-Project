@@ -17,7 +17,7 @@ function App() {
       <Room />
       <Slider />
       <Footer /> 
-     
+
     </div>
   );
 }
